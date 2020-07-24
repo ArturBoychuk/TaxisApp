@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141705043187",
+    "firebase_url": "https://taxiapp-bbd80.firebaseio.com",
+    "project_id": "taxiapp-bbd80",
+    "storage_bucket": "taxiapp-bbd80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141705043187:android:5f1fa562d1b4f13020ab86",
+        "android_client_info": {
+          "package_name": "com.artur.taxisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141705043187-emfrq8k6pg944dtq3bgdug1obas3avvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artur.taxisapp",
+            "certificate_hash": "a5ee98802e292c000db3fb66803b630d30d6f6ef"
+          }
+        },
+        {
+          "client_id": "141705043187-uvhsr62o93v6uc9q30qa2trif1dgig54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_txn8NAfhIks-tETd6B_MoIwRl09PIjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141705043187-uvhsr62o93v6uc9q30qa2trif1dgig54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
